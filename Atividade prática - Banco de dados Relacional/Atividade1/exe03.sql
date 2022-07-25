@@ -1,4 +1,4 @@
-
+#Insira nesta tabela no mínimo 5 dados (registros).
 USE db_RECURSOSHUMANOS;
 
 
